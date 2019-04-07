@@ -1,0 +1,36 @@
+body {
+  background-color: darkgray;
+  text-align: center;
+  background-image: url("https://i1.wp.com/fanf1.com.br/wp-content/uploads/2017/10/fundo-cinza.jpg" );
+  background-repeat: round;
+  background-blend-mode: screen;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-size: 300%;
+  font-family: cursive;
+  color: black;
+}
+
+h3 {
+  font-size: 200%;
+}
+
+button {
+  font-size: 200%;
+}
+
+button:hover {
+  font-size: 250%;
+  color: red;
+}
+
+p {
+  font-size: 150%;
+}
+
+img {
+  height: 150px;
+  width: 300px;
+}
